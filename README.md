@@ -1,6 +1,7 @@
 # SuperHeroAPI
 
 Project made following [this](https://youtu.be/b8fFRX0T38M?si=Y7r70Es3WLpnu9Lf) youtube video.
+
 This is a C# project that uses the ASP.NET Core framework.
 
 ## Description
